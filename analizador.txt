@@ -1,0 +1,8 @@
+int x = 10;
+float y = 3.14;
+if (x > y) {
+    print("x es mayor");
+}
+
+// 
+nombre_valido = x + y;
