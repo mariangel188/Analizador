@@ -1,8 +1,18 @@
-int x = 10;
-float y = 3.14;
-if (x > y) {
-    print("x es mayor");
-}
+# Este es un programa de prueba
+x = 10
+y := 5.5
 
-// 
-nombre_valido = x + y;
+if x > y:
+    print("x es mayor que y")
+else:
+    print("x no es mayor")
+
+contador = 0
+while contador < 3:
+    print("Contando:", contador)
+    contador += 1
+
+def saludar(nombre):
+    print("Hola", nombre)
+
+saludar("Mariangel")
