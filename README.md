@@ -1,5 +1,5 @@
 # Analizador léxico
-Un analizador léxico es un intérprete que se encaraga de leer el código fuente línea por línea para dividirlo en tokens y los clasifica segun sean palabras clave, operadores, identificadores o números.
+Un analizador léxico es un intérprete que se encarga de leer el código fuente línea por línea para dividirlo en tokens y los clasifica segun sean palabras clave, operadores, identificadores o números.
 # Definición del lenguaje
 ### Estructura general
 
